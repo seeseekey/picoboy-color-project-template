@@ -1,6 +1,6 @@
-# Project template for Picoboy
+# Project template for Picoboy Color
 
-This template is intended as a starting point for developing your own firmware based on the Picoboy. It's based on [
+This template is intended as a starting point for developing your own firmware based on the Picoboy Color. It's based on [
 rp2040-project-template](https://github.com/rp-rs/rp2040-project-template).
 
 It includes all of the `knurling-rs` tooling as showcased in https://github.com/knurling-rs/app-template (`defmt`, `defmt-rtt`, `panic-probe`, `flip-link`) to make development as easy as possible.
@@ -39,7 +39,7 @@ cargo install cargo-generate
 Then you can create a new project from the template:
 
 ```sh
-cargo generate --git https://github.com/seeseekey/picoboy-project-template.git
+cargo generate --git https://github.com/seeseekey/picoboy-color-project-template.git
 ```
 
 ## Running
@@ -126,7 +126,7 @@ The steps are:
 3. Make some changes to the code or documentation.
 4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 5. Push to the Feature Branch (`git push origin feature/AmazingFeature`)
-6. Create a [New Pull Request](https://github.com/seeseekey/picoboy-project-template/pulls)
+6. Create a [New Pull Request](https://github.com/seeseekey/picoboy-color-project-template/pulls)
 7. An admin will review the Pull Request and discuss any changes that may be required.
 8. Once everyone is happy, the Pull Request can be merged by an admin, and your work is part of our project!
 
@@ -142,4 +142,4 @@ under these terms.
 
 ## Contact
 
-Raise an issue: [https://github.com/seeseekey/picoboy-project-template/issues](https://github.com/seeseekey/picoboy-project-template/issues)
+Raise an issue: [https://github.com/seeseekey/picoboy-color-project-template/issues](https://github.com/seeseekey/picoboy-project-template/issues)

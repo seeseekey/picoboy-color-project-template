@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name = "picoboy-starter-template"
+name = "picoboy-color-project-template"
 version = "0.1.0"
 license = "MIT OR Apache-2.0"
 
